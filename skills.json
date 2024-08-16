@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
+    },
+    {
+        "name": "R",
+        "icon": "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000"
+    },
+    {
+        "name": "MS Office",
+        "icon": "https://img.icons8.com/?size=100&id=37619&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=100&id=33039&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"
+    },
+    {
+        "name": "MS Power BI",
+        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"
+    },
+    {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"
+    }
+]

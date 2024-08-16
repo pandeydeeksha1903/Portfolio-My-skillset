@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Flight delay prediction",
+    "desc": "Used Python and key libraries like Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn to predict flight delays.",
+    "image": "flight",
+    "links": {
+      "code": "https://github.com/pandeydeekshaa/Flight-delay-prediction"
+    }
+  },
+  {
+    "name": "HealthPro+",
+    "desc": "Collaborated on a university project to develop a comprehensive diet and fitness planning management website using HTML, CSS, and JS, integrating with Nutrient API",
+    "image": "healthpro",
+    "links": {
+      "code": "https://healthifypro.github.io/HealthPro-/"
+    }
+  },
+  {
+    "name": "Calorie Burnt prediction",
+    "desc": "Developed a machine learning model using libraries like Sklearn, Seaborn, Pandas, and Numpy to predict calories burnt down during physical activities",
+    "image": "calorie",
+    "links": {
+      "code": "https://github.com/pandeydeekshaa/Calorie-Burnt-prediction"
+    }
+  },
+  {
+    "name": "Analysis of smartphones sales data",
+    "desc": "Performed data cleaning and manipulation, and exploratory data analysis using pandas, matplotlib, and seaborn libraries.",
+    "image": "sales",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/pandeydeekshaa/Sales-Analysis-of-Flipkart-data"
+    }
+  },
+  {
+    "name": "Diabetes Classification",
+    "desc": "Developed a diabetes classification model using Python, Pandas, scikit-learn's KNeighborsClassifier, and MinMaxScaler.",
+    "image": "gluco",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/pandeydeekshaa/Diabetes-classification"
+    }
+  },
+  {
+    "name": "Distance Alert Web App",
+    "desc": "Developed a web application using Dash framework in Python to monitor the distance between the user and the screen in real-time.",
+    "image": "distance",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/pandeydeekshaa/Distance-Calculator-Web-app"
+    }
+  }
+]
